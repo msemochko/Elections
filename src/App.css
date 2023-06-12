@@ -1,0 +1,101 @@
+body,
+html {
+  /* Use System Fonts */
+  /* Default: Apple-System, Arial, Helvetica, "PingFang SC", "Hiragino Sans GB",
+"Microsoft YaHei", STXihei, sans-serif */
+  font-family: 'Montserrat', Apple-System, -apple-system, BlinkMacSystemFont,
+    avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto,
+    segoe ui, sans-serif, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei',
+    STXihei, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga' on, 'calt' on;
+  font-synthesis: none;
+  scroll-behavior: smooth;
+}
+
+body {
+  /* To prevent jank, always show the scrollbar. */
+  overflow-y: scroll;
+  /* min-width: 420px; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  font-family: 'Newsreader';
+}
+
+p {
+  word-break: break-word;
+}
+
+.rs-btn-toolbar .rs-btn {
+  margin-bottom: 6px;
+}
+
+/* Apple-System is the strange/blurry font. */
+
+/* On mobile, reduce padding on navbar buttons. */
+@media (max-width: 480px) {
+  .rs-nav-item-content {
+    padding-right: 6px !important;
+    padding-left: 6px !important;
+  }
+  .rs-navbar-nav .rs-dropdown > .rs-btn.rs-dropdown-toggle {
+    padding-left: 5px !important;
+  }
+  .rs-dropdown .rs-btn > .rs-icon,
+  .rs-nav-item > .rs-nav-item-content > .rs-icon {
+    margin-right: 4px;
+  }
+}
+
+/* Some rsuite components like to spill over edges on mobile */
+.rs-modal {
+  max-width: 100%;
+}
+
+.rs-input {
+  max-width: 100%;
+}
+
+/* Timeline CSS */
+
+.custom-timeline {
+  margin-left: 20px;
+}
+
+.custom-timeline .rs-timeline-item-custom-dot .rs-icon {
+  position: absolute;
+  background: #fff;
+  top: 0;
+  left: -2px;
+  border: 2px solid #ddd;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 18px;
+  padding-top: 9px;
+  color: #999;
+  margin-left: -13px;
+}
+
+.custom-timeline .rs-timeline-item-content {
+  margin-left: 24px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.version-number {
+  color: #ccc;
+}
+
+.rs-notification {
+  max-width: calc(100vw - 48px);
+}

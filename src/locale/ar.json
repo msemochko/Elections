@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "languageName": "العربية",
+    "compatability": 1.1,
+    "general": {
+      "submit": "تسليم",
+      "cancel": "إلغاء",
+      "close": "إغلاق",
+      "delete": "حدف",
+      "required": "يجب ملء هذه الخانة",
+      "returnToLogin": "الرجوع الى صفحة الدخول وصفحة التسجيل",
+      "app": {
+        "name": "الديمقراطية"
+      }
+    },
+    "mainPage": {
+      "subtitle": "مرحبا! يمكنك التصويت، الترشيح، او تكوين انتخابات جديدة",
+      "slogan": "التسجيل والمشاركة في الانتخابات الطلابية",
+      "loginButton": "الدخول",
+      "logoutButton": "الخروج",
+      "homeLink": "الصفحة الرئيسية",
+      "voteLink": "تصويت",
+      "setupLink": "للإعداد",
+      "logoutSuccessTitle": "لقد جرجت",
+      "logoutSuccessDescription": "لقد خرجت من جلستك الديمقراطية، الى اللقاء",
+      "welcome": "مرحبا",
+      "accountSetting": "إعدادت حسابية"
+    },
+    "signUpForm": {
+      "loginErrorMsg": "انت بالفعل داخل الربط",
+      "msgRequired": "يجب ملء هذه الخانة",
+      "invalidEmailFormatMsg": "الرجاء إستعمال عنوان البريد الإلكتروني صالح",
+      "signUpSuccessTitle": "الرجاء الإطلاع على  صندوقك للواردات",
+      "signUpSuccessDescription": "المرج التحقق من الحساب بفتح بريدك لإلكتروني و النقر على الرابط، شكرا على الاشتراك",
+      "sectionTitle": "اشتراك",
+      "nameInputLabel": "الإسم و النسب",
+      "usernameInputLabel": "اسم المستخدم",
+      "emailInputLabel": "البريد الإلكتروني",
+      "passwordInputLabel": "كلمة السر",
+      "passwordInputFieldHint": "يجب ادخال كلمة السرمرتين",
+      "submitBtn": "تسليم"
+    },
+    "electionList": {
+      "noMatchingElections": "لا توجد اية إنتخابات. المرج انشاء انتخابات خاصة بك",
+      "button": {
+        "viewElection": "شاهد",
+        "manageElection": "الإدارة"
+      }
+    },
+    "signInForm": {
+      "alreadyLogInMsg": "انت بالفعل داخل الربط",
+      "msgRequired": "يجب ملء هذه الخانة",
+      "ctxErrorMsg": "المرج تحديث الصفحة",
+      "invalidEmailFormatMsg": "الرجاء إستعمال عنوان البريد الإلكتروني صالح",
+      "logInSuccessTitle": "انت بالفعل داخل",
+      "logInSuccessDescription": "مرحبا بك مرة أخرى إلى الالديمقراطية من طرف العقول الصغيرة",
+      "sectionTitle": "الدخول",
+      "usernameInputLabel": "اسم االمستخدم",
+      "passwordInputLabel": "كلمة السر",
+      "submitBtn": "تسليم"
+    },
+    "createElectionBtn": {
+      "maxLength200": "العدد الأقصى للحروف هو 200",
+      "btnLabel": "إنشاء انتخابات جديدة",
+      "successMsgTitle": "نجاح",
+      "successMsg": "انشاء انتخابات جديدة بستعمال وثيقة الهوية",
+      "failMsgTitle": "خطأ",
+      "failMsg": "فشل انشاء انتخابات جديدة",
+      "msgRequired": "يجب ملء هذه الخانة",
+      "msgInvalidFormat": "المجال غير صالح",
+      "electionFormTitle": "إنشاء انتخابات جديدة",
+      "electionTitle": "عنوان",
+      "electionDescriptionAndSubmissionInfo": "الوصف وإرشادات التقديم",
+      "electionSubtitle": "العنوان الفرعي",
+      "electionEnableMultiSubs": "تفعيل اختيار للتقديم المترشحين لعدة مناصب",
+      "electionMultiSubsTrue": "نعم",
+      "electionMultiSubsFalse": "لا",
+      "electionEmailDomain": "مجال البريد الإلكتروني للانتخاب",
+      "tooManyElectionsErrorTitle": "عدد كبير جدًا من الانتخابات",
+      "tooManyElectionsErrorBody": "العدد الأقصى للإنتخابات التي يمكن إحداتها هو 3. المرج حدف للإنتخابات القديمة أوالغير الصالحة",
+      "applicationPeriod": "وقت بدء التطبيق و الموعد النهائي",
+      "betweenDates": "إلى",
+      "votingPeriod": "وقت بدء التطبيق و الموعد النهائي",
+      "createBtn": "خلق",
+      "cancelBtn": "إلغاء"
+    },
+    "languagePicker": {
+      "title": "إختيار اللغة",
+      "en": "English",
+      "fr": "Français",
+      "cn": "中国人"
+    },
+    "emptyPage": {
+      "title": "صفحة فارغة",
+      "body": "هذه صفحة عنصر نائب ، وسيتم استبدالها."
+    },
+    "voteHomePage": {
+      "title": "صوت",
+      "subtitle": "صوت في إنتخابات عامة"
+    },
+    "setupHomePage": {
+      "title": "للإعداد",
+      "subtitle": "تكوين انتخابات جديدة أو موجودة",
+      "electionPanelTitle": "انتخاباتك"
+    },
+    "electionPage": {
+      "deleteElectionModalTitle": "حذف الانتخابات",
+      "deleteElectionModalBody": "هل تريد حذف هذه الإنتخابات؟",
+      "infoSubpageTitle": "معلومات",
+      "infoSubpagePostionSectionTitle": "مناصب",
+      "positionSectionTilte": "مناصب",
+      "platformSectionTitle": "منصات لترشح",
+      "resultSectionTitle": "النتائج",
+      "electionDomainErrorMsg": "المجال البريد الإلكتروني السابق غير صالح، لا يمكنك المشاركة في هذه الانتخابات",
+      "voteBtn": "صوت",
+      "applyBtn": "تقدم الآن",
+      "infoBtn": "معلومات",
+      "openPositionBtn": "المناصب المفتوحة",
+      "platformBtn": "منصات الترشح",
+      "setTimelineBtn": "تعيين الجدول الزمني",
+      "addPositionBtn": "أضف الوظيفة",
+      "deleteEletionBtn": "حذف الانتخابات",
+      "managementToolsSectionTitle": "أدوات الإدارة"
+    },
+    "manageAccountPage": {
+      "title": "الحساب",
+      "instruction": "تحديث أو حذف حساب الديمقراطية الخاص بك.",
+      "changeProfileBtn": "Gravatar تغيير صورة الملف الشخصي إستعمالا ",
+      "form": {
+        "title": "تحديث معلومات المستخدم",
+        "name": "اسم"
+      }
+    },
+    "positionApplyPage": {
+      "required": "يجب ملء هذه الخانة",
+      "subSuccessModalTitle": "جيد",
+      "subSuccessModalBody": "لقد نجحت في تقديم طلبك",
+      "subLimitationModalTitle": "تم الوصول إلى حد التطبيق",
+      "subLimitationModalBody": "يمكنك التقديم على منصب واحد فقط في هذه الإنخابات",
+      "subFailModalTitle": "فشل",
+      "subFailModalBody": "لقد فشلت في تقديم طلبك",
+      "positionSectionTitle": "وصف الوظيفة",
+      "posAppFormTitle": "استمارة التقديم",
+      "posAppFormPlatform": "منصات الترشح",
+      "posAppFormSubBtn": "تسليم",
+      "posAppFormCancelBtn": "إلغاء"
+    },
+    "votePage": {
+      "ballotSubSuccessModalTitle": "تم تقديمه",
+      "ballotSubSuccessModalBody": "اقتراعك في طورالإرسال. سنعود بعد قليل",
+      "ballotSubFailModalTitle": "لم يتم التسليم",
+      "ballotSubFailModalBody": "لم يتم تسلم اقتراعك. سيتم إعلام المسؤول عن الموقع",
+      "ballotElectionTitle": "اقتراعك رسمي للشخص السابق",
+      "ballotPositionTitle": "إختر مترشحين للمناصب السابقة ",
+      "ballotViewCandidateInfo": "أنقر على المترشحين للإضطلاع على منصتهم",
+      "ballotPosDescriptionTitle": "وصف",
+      "ballotPosCandidateTitle": "المترشحين ",
+      "ballotVoteSectionTitle": "اختر مرشحك",
+      "ballotVoteOption": "امتنع",
+      "ballotSubBtn": "تسليم",
+      "ballotCancelBtn": "إلغاء"
+    },
+    "addPositionModalComp": {
+      "fieldRequiredMsg": "يجب ملء هذه الخانة",
+      "title": "أضف منصب جديد",
+      "posTitle": "عنوان",
+      "posDescription": "وصف",
+      "createBtn": "أحدث",
+      "cancelBtn": "إلغاء"
+    },
+    "candidateInfoComp": {
+      "modalTitle": "معلومات المرشح",
+      "candidateName": "إسم",
+      "candidatePlatform": "منصة الانتخابات"
+    },
+    "setTimelineModal": {
+      "title": "تكوين الجدول الزمني للانتخابات",
+      "headings": {
+        "applicationTimes": "تاريخ بدء التطبيق والموعد النهائي",
+        "votingTimes": "تاريخ بدء التصويت والموعد النهائي"
+      },
+      "message": {
+        "changeTimelineWarning": "تغيير جدول الزمن ليس محصورا، يجب تجنب تغييره "
+      },
+      "error": {
+        "applicationDeadlineEarly": "آخر موعد للتقديم هو تاريخ البدء",
+        "voteStartEarly": "بداية التصويت يتم بعد متم موعد للتقديم",
+        "voteDeadlineEarly": "نهاية آلتصويت تتم بعد متم موعد بداية آلتصويت"
+      },
+      "form": {
+        "timeDivider": "إلى"
+      },
+      "updateNotification": {
+        "successTitle": "نجاح",
+        "successBody": "لقد تم تحديث جدول الزمن للإنتخابات بنجاح",
+        "errorTitle": "خطأ",
+        "errorBody": "لقد فشل تحديث جدول الزمن للإنتخابات"
+      }
+    },
+    "emailVerification": {
+      "title": {
+        "emailVerified": "تم تحقق بريدك الإلكتروني",
+        "emailAlreadyVerified": "لا تحتاج التحقق بريدك الإلكتروني",
+        "emailVerificationError": "خطأ في التحقق من البريد الإلكتروني"
+      },
+      "subtitle": {
+        "emailVerificationError": "المرجو التحقق من الدخول إلى الرابط عبر بريدك الإلكتروني"
+      }
+    },
+    "electionResults": {
+      "noWinner": "ليس هناك مترشحون",
+      "draw": "تعادل",
+      "votes": "الأصوات",
+      "noResult": "ليس هناك نتائج "
+    },
+    "confirmModal": {
+      "okBtn": "فعلا",
+      "cancelBtn": "إلغاء"
+    },
+    "electionInfo": {
+      "loading": "جار التحميل",
+      "id": "هذه وتيقة الهوية",
+      "creatationDate": "تاريخ إحداث الإنتخابات"
+    },
+    "electionManager": {
+      "manager": "هو المسؤول"
+    },
+    "electionTimeline": {
+      "appBegin": "بداية فترة الترشح",
+      "appEnd": "نهاية فترة الترشح",
+      "review": "مراجعة الترشيحات من طرف المسؤول",
+      "voteBegin": "بداية فترة التصويت",
+      "voteEnd": "نهاية فترة التصويت"
+    },
+    "platformList": {
+      "title": "المترشحين",
+      "emptyTitle": "لا يوجد أي مترشح",
+      "emptyPosition": "لا يوجد أي مترشح، سنعود بعد قليل"
+    },
+    "positionList": {
+      "deleteNotification": {
+        "successTitle": "نجاح",
+        "successBody": "تم حذف المنصب بنجاح",
+        "errorTitle": "خطأ",
+        "errorBody": "تم حذف المنصب بفشال"
+      },
+      "emptyPosition": "لا يوجد مناصب حاليا، المرجو العودة لاحقا",
+      "applyBtn": "قدم الآن",
+      "deleteBtn": "حدف",
+      "confirmModalTitle": "حدف المنصب",
+      "confirmModalBody": "هل تريد حدف هذا المنصب؟"
+    },
+    "resetPassword": {
+      "title": "إعادة تعيين كلمة السر",
+      "form": {
+        "password1": "كلمة السر",
+        "password2": "دخل كلمة السرمرة ثانية"
+      }
+    },
+    "semiLegal": {
+      "termsOfService": "عند إستعمالكم لهذا الموقع، أنتم ملزمون بعدم إستغلاله لأنشطة محضورة أو خارج القانون. متكنش ولد القحبة",
+      "privacyPolicy": "عند إستعمالكم لهذا التطبيق، أنتم متفقون على إستعمال أسماؤكم وبريدكم الإلكتروني على هذا الموقع"
+    }
+  }
+}

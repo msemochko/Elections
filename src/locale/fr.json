@@ -1,0 +1,382 @@
+{
+  "translation": {
+    "languageName": "Українська",
+    "compatability": 1.1,
+    "general": {
+      "submit": "Надіслати",
+      "cancel": "Скасувати",
+      "close": "Закрити",
+      "delete": "Supprimer",
+      "required": "Це поле є обов'язковим.",
+      "returnToLogin": "Повернутися до сторінки входу та реєстрації",
+      "app": {
+        "name": "Démocratie"
+      }
+    },
+    "mainPage": {
+      "subtitle": "Ласкаво просимо. Проголосуйте, зареєструйте свою кандидатуру або призначте нові вибори",
+      "slogan": "Зареєструватися та взяти участь у студентських виборах.",
+      "loginButton": "Логін",
+      "logoutButton": "Вийти",
+      "homeLink": "Ласкаво просимо",
+      "voteLink": "Голосуйте",
+      "setupLink": "Конфігурація",
+      "logoutSuccessTitle": "Офлайн",
+      "logoutSuccessDescription": "Ви успішно вийшли зі свого сеансу демократії. Насолоджуйтесь рештою дня!",
+      "welcome": "Ласкаво просимо",
+      "accountSetting": "Налаштування аккаунта"
+    },
+    "signUpForm": {
+      "loginErrorMsg": "Ви вже підключені",
+      "msgRequired": "Це поле є обов'язковим",
+      "invalidEmailFormatMsg": "Використовуйте дійсну електронну адресу",
+      "signUpSuccessTitle": "Перевірити свою поштову скриньку",
+      "signUpSuccessDescription": "Підтвердьте свій обліковий запис, відкривши електронний лист, який ми вам надіслали, і натиснувши посилання. Дякуємо за реєстрацію!",
+      "sectionTitle": "зареєструватися",
+      "nameInputLabel": "Ім'я та прізвище",
+      "usernameInputLabel": "ім'я користувача",
+      "emailInputLabel": "Електронна пошта",
+      "passwordInputLabel": "Пароль",
+      "passwordInputFieldHint": "Введіть свій пароль двічі",
+      "submitBtn": "Надіслати"
+    },
+    "electionList": {
+      "noMatchingElections": "Вибори не знайдено. Ви хочете створити його самостійно?",
+      "button": {
+        "viewElection": "Побачити",
+        "manageElection": "Керувати"
+      }
+    },
+    "signInForm": {
+      "alreadyLogInMsg": "Ви вже підключені",
+      "msgRequired": "Це поле є обов'язковим",
+      "ctxErrorMsg": "Будь ласка, оновіть сторінку",
+      "invalidEmailFormatMsg": "Використовуйте дійсну електронну адресу",
+      "logInSuccessTitle": "Підключено",
+      "logInSuccessDescription": "Ласкаво просимо до Democracy by Little Minds",
+      "sectionTitle": "Логін",
+      "usernameInputLabel": "ім'я користувача",
+      "passwordInputLabel": "Пароль",
+      "submitBtn": "Надіслати"
+    },
+    "createElectionBtn": {
+      "maxLength200": "Максимальна довжина цього поля становить 200 символів.",
+      "btnLabel": "Створіть нові вибори",
+      "successMsgTitle": "удар",
+      "successMsg": "Створіть нові вибори з ідентифікатором",
+      "failMsgTitle": "Помилка",
+      "failMsg": "Не вдалося розпочати нові вибори",
+      "msgRequired": "Це поле є обов'язковим",
+      "msgInvalidFormat": "Формат домену недійсний",
+      "electionFormTitle": "Створіть нові вибори",
+      "electionTitle": "Назва",
+      "electionDescriptionAndSubmissionInfo": "Опис та інструкція подачі",
+      "electionSubtitle": "Підзаголовок",
+      "electionEnableMultiSubs": "Дозвольте кандидатам подати заявку на кілька посад",
+      "electionMultiSubsTrue": "Так",
+      "electionMultiSubsFalse": "Немає",
+      "electionEmailDomain": "Виборчий домен електронної пошти",
+      "tooManyElectionsErrorTitle": "занадто багато виборів",
+      "tooManyElectionsErrorBody": "Облікові записи можуть керувати обмеженням на три вибори одночасно. Видаліть старі або невикористані вибори.",
+      "applicationPeriod": "Час початку та термін подачі заявки",
+      "betweenDates": "до",
+      "votingPeriod": "Час початку та кінцевий термін голосування",
+      "createBtn": "Створити",
+      "cancelBtn": "Скасувати"
+    },
+    "languagePicker": {
+      "title": "Вибір мови",
+      "en": "англійська",
+      "fr": "українська",
+      "cn": "китайський"
+    },
+    "emptyPage": {
+      "title": "порожня сторінка",
+      "body": "Це сторінка-заповнювач, і її буде замінено."
+    },
+    "voteHomePage": {
+      "title": "Голосуйте",
+      "subtitle": "Голосуйте на публічних виборах зі свого домену"
+    },
+    "setupHomePage": {
+      "title": "Конфігурація",
+      "subtitle": "Встановіть нові або існуючі вибори",
+      "electionPanelTitle": "Ваші вибори"
+    },
+    "electionPage": {
+      "deleteElectionModalTitle": "Видалити вибори",
+      "deleteElectionModalBody": "Ви хочете видалити ці вибори?",
+      "infoSubpageTitle": "Інформація",
+      "infoSubpagePostionSectionTitle": "посади",
+      "positionSectionTilte": "посади",
+      "platformSectionTitle": "Платформи кандидатів",
+      "resultSectionTitle": "Результат",
+      "electionDomainErrorMsg": "Ви не можете брати участь у цих виборах, оскільки ваш домен електронної пошти не є таким",
+      "voteBtn": "Голосуйте",
+      "applyBtn": "Застосувати зараз",
+      "infoBtn": "Інформація",
+      "openPositionBtn": "Відкриті позиції",
+      "platformBtn": "Платформи кандидатів",
+      "setTimelineBtn": "Встановіть крайній термін",
+      "addPositionBtn": "Додайте посаду",
+      "deleteEletionBtn": "Видалити вибори",
+      "managementToolsSectionTitle": "Інструменти управління"
+    },
+    "manageAccountPage": {
+      "title": "Обліковий запис",
+      "instruction": "Оновіть або видаліть свій обліковий запис Democracy.",
+      "changeProfileBtn": "Змініть зображення профілю за допомогою Gravatar",
+      "form": {
+        "title": "Оновлення інформації про користувача",
+        "name": "Ім'я"
+      }
+    },
+    "positionApplyPage": {
+      "fieldIsRequiredMsg": "Це поле є обов'язковим",
+      "subSuccessModalTitle": "привітання",
+      "subSuccessModalBody": "Ви успішно подали заявку",
+      "subLimitationModalTitle": "Ліміт запитів досягнуто",
+      "subLimitationModalBody": "На цих виборах можна претендувати лише на одну посаду.",
+      "subFailModalTitle": "Не вдалося",
+      "subFailModalBody": "Не вдалося подати заявку",
+      "positionSectionTitle": "Описання роботи",
+      "posAppFormTitle": "Заява",
+      "posAppFormPlatform": "Передвиборча платформа",
+      "posAppFormSubBtn": "Надіслати",
+      "posAppFormCancelBtn": "Скасувати"
+    },
+    "votePage": {
+      "ballotSubSuccessModalTitle": "Надіслано",
+      "ballotSubSuccessModalBody": "Ваш бюлетень уже в дорозі! Незабаром перевірте результати.",
+      "ballotSubFailModalTitle": "Не було подано",
+      "ballotSubFailModalBody": "Ви не подали свій бюлетень. Адміністратор буде повідомлений.",
+      "ballotElectionTitle": "Офіційний бюлетень за",
+      "ballotPositionTitle": "Оберіть кандидата на ці посади:",
+      "ballotViewCandidateInfo": "Натисніть на кандидатів, щоб побачити їх платформу.",
+      "ballotPosDescriptionTitle": "опис",
+      "ballotPosCandidateTitle": "Кандидати",
+      "ballotVoteSectionTitle": "Виберіть кандидата",
+      "ballotVoteOption": "рефрен",
+      "ballotSubBtn": "Надіслати",
+      "ballotCancelBtn": "Скасувати"
+    },
+    "addPositionModalComp": {
+      "fieldRequiredMsg": "Це поле є обов'язковим",
+      "title": "Додайте нову публікацію",
+      "posTitle": "Назва",
+      "posDescription": "опис",
+      "createBtn": "Створити",
+      "cancelBtn": "Скасувати"
+    },
+    "candidateInfoComp": {
+      "modalTitle": "Інформація про кандидата",
+      "candidateName": "Ім'я: ",
+      "candidatePlatform": "Передвиборча платформа"
+    },
+    "setTimelineModal": {
+      "title": "Налаштування шкали часу виборів",
+      "headings": {
+        "applicationTimes": "Дата початку та кінцевий термін подачі заявки",
+        "votingTimes": "Дата початку та кінцевий термін голосування"
+      },
+      "message": {
+        "changeTimelineWarning": "Зміна термінів наразі не обмежена і може мати серйозні наслідки. У майбутньому проведення виборів унеможливить маніпуляції часовими шкалами."
+      },
+      "error": {
+        "applicationDeadlineEarly": "Кінцевий термін подачі заявок має бути після дати початку!",
+        "voteStartEarly": "Дата початку голосування має бути після закінчення терміну подачі заявок!",
+        "voteDeadlineEarly": "Кінцевий термін голосування має бути після дати початку голосування!"
+      },
+      "form": {
+        "timeDivider": "до"
+      },
+      "updateNotification": {
+        "successTitle": "Успіх",
+        "successBody": "Розклад виборів успішно оновлено.",
+        "errorTitle": "Помилка",
+        "errorBody": "Не вдалося оновити графік виборів."
+      }
+    },
+    "emailVerification": {
+      "title": {
+        "emailVerified": "Підтвердити електронну адресу",
+        "emailAlreadyVerified": "Електронна адреса вже підтверджена",
+        "emailVerificationError": "Помилка підтвердження електронної пошти"
+      },
+      "subtitle": {
+        "emailVerificationError": "Будь ласка, переконайтеся, що ви правильно перейшли за посиланням в електронному листі."
+      }
+    },
+    "electionResults": {
+      "noWinner": "Жодного кандидата.",
+      "draw": "Потягнути",
+      "votes": "Голосування",
+      "noResult": "Жодного результату."
+    },
+    "confirmModal": {
+      "okBtn": "добре",
+      "cancelBtn": "Скасувати"
+    },
+    "electionInfo": {
+      "loading": "Завантаження...",
+      "id": "ID виборців:",
+      "creatationDate": "Дата створення вибору:"
+    },
+    "electionManager": {
+      "manager": "Режисер"
+    },
+    "electionTimeline": {
+      "appBegin": "Початок періоду подачі заявок",
+      "appEnd": "Термін подачі заявок закінчується",
+      "review": "Розгляд кандидатур головним спеціалістом з виборів",
+      "voteBegin": "Початок періоду голосування",
+      "voteEnd": "Кінець періоду голосування"
+    },
+    "platformList": {
+      "title": "Кандидати",
+      "emptyTitle": "Жодного кандидата",
+      "emptyPosition": "На даний момент немає опублікованих позицій. Перевірте незабаром оновлення."
+    },
+    "positionList": {
+      "deleteNotification": {
+        "successTitle": "удар",
+        "successBody": "Публікацію успішно видалено",
+        "errorTitle": "Помилка",
+        "errorBody": "Не вдалося видалити публікацію"
+      },
+      "emptyPosition": "На даний момент немає опублікованих позицій. Перевірте незабаром оновлення.",
+      "applyBtn": "Застосувати зараз",
+      "deleteBtn": "ВИДАЛИТИ",
+      "confirmModalTitle": "Видалити позицію",
+      "confirmModalBody": "Ви хочете видалити цю публікацію?"
+    },
+    "resetPassword": {
+      "title": "Скинути пароль",
+      "form": {
+        "password1": "Пароль",
+        "password2": "Повторно введіть пароль"
+      }
+    },
+    "semiLegal": {
+      "termsOfService": "Користуючись цією системою, ви погоджуєтеся не використовувати сайт для будь-якої незаконної діяльності, не розсилати спаму іншим користувачам, не порушувати будь-які чинні закони або бути загальним мудаком.",
+      "privacyPolicy": "Користуючись цією послугою, ви погоджуєтеся на публікацію вашого імені та електронної адреси на веб-сайті."
+    },
+    "v2": {
+      "labels": {
+        "forgotPassword": "Забули свій пароль?",
+        "processingResults": "Результати перевіряються, дякуємо за терпіння.",
+        "invitedToViewElection": "Вас запросили переглянути вибори",
+        "loginToContinue": "Будь ласка, увійдіть, щоб переглянути цю сторінку."
+      },
+      "errors": {
+        "error": "Помилка",
+        "pleaseLogInAgain": "Ваші облікові дані недійсні, увійдіть знову.",
+        "electionInvalid": "На жаль, ми не можемо знайти ці вибори.",
+        "cantDelete": "Вибачте, не вдалося видалити це. Будь-ласка спробуйте пізніше.",
+        "notOnWhitelist": {
+          "title": "Помилка дозволу",
+          "description": "Вас немає в білому списку для цих виборів. Якщо ви вважаєте, що це помилка, зв’яжіться з організатором."
+        },
+        "alreadySubmittedBallot": {
+          "title": "Допускається лише один голос",
+          "description": "Ви вже проголосували на цих виборах. Будь ласка, зверніться до організатора виборів, якщо ви вважаєте, що це помилка."
+        }
+      },
+      "infoModal": {
+        "titles": {
+          "tos": "Умови використання",
+          "privacy": "Політика конфіденційності",
+          "contributors": "Дописувачі"
+        }
+      },
+      "passwordResetRequest": {
+        "title": "Запит на скидання пароля",
+        "description": "Ми надішлемо вам електронний лист із посиланням, за яким ви зможете змінити свій пароль.",
+        "form": {
+          "email": "Адреса електронної пошти",
+          "submit": "Запит на ключ"
+        }
+      },
+      "candidateInfoComp": {
+        "btnTip": "натисніть на мене"
+      },
+      "platformList": {
+        "notVisibleWarning": "Повідомлення наразі не бачать користувачі. Вони будуть видимі, коли закінчиться період подачі заявок.",
+        "willShowAfterApplications": "Заявки наразі відкриті. Платформи будуть відображені після закінчення періоду подачі заявок.",
+        "willShowAfterReview": "Прийом заявок наразі закрито. Платформи розглядаються."
+      },
+      "passwordResetChange": {
+        "title": "Скинути пароль",
+        "description": "Щоб продовжити, введіть свій новий пароль.",
+        "form": {
+          "password1": "Новий пароль",
+          "password2": "Введіть новий пароль ще раз",
+          "submit": "Змінити пароль і логін"
+        }
+      },
+      "electionPage": {
+        "deleteNotification": {
+          "successTitle": "Успіх",
+          "successBody": "Вибори успішно видалено."
+        },
+        "editWhitelistBtn": "Редагувати білий список",
+        "editElectionBtn": "Редагувати вибори"
+      },
+      "editWhitelistModal": {
+        "title": "Редагувати білий список",
+        "warning": "Додавання електронних листів до білого списку обмежує кількість учасників, які можуть брати участь у ваших виборах.",
+        "instructions": "Вставте текстовий список електронної пошти в поле нижче, і він буде відсканований, коли користувач спробує подати заявку на роботу або проголосувати. Користувачі, яких немає в списку, не зможуть брати участь.",
+        "formLabel": "Білий список:",
+        "submitBtn": "Надіслати",
+        "cancelBtn": "Скасувати",
+        "successNotificationTitle": "Успіх",
+        "successNotificationBody": "Білий список виборів успішно оновлено.",
+        "errorNotificationTitle": "Помилка",
+        "errorNotificationBody": "Не вдалося оновити білий список виборів"
+      },
+      "editElectionModal": {
+        "title": "Редагувати деталі виборів",
+        "instructions": "Ви можете змінити назву та опис поточних виборів тут",
+        "titleLabel": "Назва",
+        "subtitleLabel": "Підзаголовок",
+        "descriptionLabel": "опис",
+        "subBtn": "Надіслати",
+        "cancelBtn": "Скасувати",
+        "successNotificationTitle": "Успіх",
+        "successNotificationBody": "Деталі виборів успішно оновлено",
+        "errorNotificationTitle": "Не вдалося",
+        "errorNotificationBody": "Не вдалося оновити деталі виборів"
+      },
+      "votePage": {
+        "noContest": "Жоден кандидат не претендував на цю посаду.",
+        "option": {
+          "abstain": "Утримання",
+          "noConfidence": "Вотум недовіри"
+        }
+      },
+      "timespans": {
+        "preElection": "Майбутні вибори",
+        "submissionsOpen": "Відкриті подання",
+        "submissionReview": "Розгляд подання",
+        "campaigningPeriod": "Період кампанії",
+        "votingOpen": "Відкрите голосування",
+        "processingResults": "Обробка результатів",
+        "resultsReleased": "Опубліковані результати"
+      },
+      "electionTimeline": {
+        "title": "Календар виборів",
+        "appEndAndReview": "Кінець терміну подачі заявок, платформи розглядаються менеджером",
+        "appRelease": "Опубліковані платформи кандидатів",
+        "voteEndAndReview": "Кінець періоду голосування, результати розглядаються керівником",
+        "voteRelease": "Оприлюднення результатів виборів"
+      },
+      "electionResults": {
+        "votesOfAbstention": "Утрималися голоси",
+        "votesOfNoConfidence": "Вотум недовіри"
+      },
+      "general": {
+        "manager": "Адміністратор"
+      }
+    }
+  }
+}

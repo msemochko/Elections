@@ -1,0 +1,336 @@
+{
+  "translation": {
+    "languageName": "中文",
+    "compatability": 1.1,
+    "general": {
+      "submit": "提交",
+      "cancel": "取消操作",
+      "close": "关闭",
+      "delete": "删除",
+      "required": "此空白处必须填写",
+      "returnToLogin": "返回登录与注册页面",
+      "app": {
+        "name": "德先生"
+      }
+    },
+    "mainPage": {
+      "subtitle": "欢迎来到选举平台。投票、注册成为候选人、以及建构一个新的选举皆可在此平台进行",
+      "slogan": "注册并参与学生选举",
+      "loginButton": "登录",
+      "logoutButton": "登出",
+      "homeLink": "首页",
+      "voteLink": "投票",
+      "setupLink": "设置",
+      "logoutSuccessTitle": "已登出",
+      "logoutSuccessDescription": "您已成功退出，祝好！",
+      "welcome": "欢迎",
+      "accountSetting": "帐号设定"
+    },
+    "signUpForm": {
+      "loginErrorMsg": "您已经登录过",
+      "msgRequired": "此空白处必须填写",
+      "invalidEmailFormatMsg": "该电子邮件地址无效，请重试",
+      "signUpSuccessTitle": "注册成功，请检查您的收件箱",
+      "signUpSuccessDescription": "感谢您的注册！请点击已发送至您的电子邮箱的链接来验证您的帐号",
+      "sectionTitle": "注册",
+      "nameInputLabel": "名字和姓氏",
+      "usernameInputLabel": "用户名",
+      "emailInputLabel": "电子邮件",
+      "passwordInputLabel": "密码",
+      "passwordInputFieldHint": "请再次输入密码",
+      "submitBtn": "提交"
+    },
+    "electionList": {
+      "noMatchingElections": "无选举，不如自己创建一个？",
+      "button": {
+        "viewElection": "查看选举",
+        "manageElection": "管理选举"
+      }
+    },
+    "signInForm": {
+      "alreadyLogInMsg": "您已登录",
+      "msgRequired": "此空白处必须填写",
+      "ctxErrorMsg": "请刷新页面重试",
+      "invalidEmailFormatMsg": "请使用有效的电子邮件地址",
+      "logInSuccessTitle": "登录",
+      "logInSuccessDescription": "欢迎回到「Democracy by Small Minds」",
+      "sectionTitle": "登录",
+      "usernameInputLabel": "用户名",
+      "passwordInputLabel": "密码",
+      "submitBtn": "提交"
+    },
+    "createElectionBtn": {
+      "maxLength200": "该字段的最大长度为200个字符",
+      "btnLabel": "创建新的选举",
+      "successMsgTitle": "创建成功",
+      "successMsg": "使用ID创建新的选举",
+      "failMsgTitle": "发生错误",
+      "failMsg": "操作失败，无法创建新的选举",
+      "msgRequired": "此空白处必须填写",
+      "msgInvalidFormat": "邮箱域名格式无效",
+      "electionFormTitle": "创建新的选举",
+      "electionTitle": "标题",
+      "electionDescriptionAndSubmissionInfo": "描述与提交操作说明",
+      "electionSubtitle": "副标题",
+      "electionEnableMultiSubs": "允许候选人能够同时申请多个职位",
+      "electionMultiSubsTrue": "是的",
+      "electionMultiSubsFalse": "不",
+      "electionEmailDomain": "选举电子邮件域名",
+      "tooManyElectionsErrorTitle": "选举次数超过最大限制，请重试",
+      "tooManyElectionsErrorBody": "帐户一次最多可以进行三个选举，请删除旧的选举或未应用的选举",
+      "applicationPeriod": "申请开始时间和截止日期",
+      "betweenDates": "到",
+      "votingPeriod": "投票开始时间和截止日期",
+      "createBtn": "创建",
+      "cancelBtn": "取消"
+    },
+    "languagePicker": {
+      "title": "选择语言",
+      "en": "英语",
+      "fr": "法语",
+      "cn": "中文"
+    },
+    "emptyPage": {
+      "title": "空白页",
+      "body": "这是一个将被替换的占位符页面"
+    },
+    "voteHomePage": {
+      "title": "投票",
+      "subtitle": "以你的邮箱域名进行投票"
+    },
+    "setupHomePage": {
+      "title": "设置",
+      "subtitle": "创建一个新的选举或编辑已有的选举",
+      "electionPanelTitle": "你的选举"
+    },
+    "electionPage": {
+      "deleteElectionModalTitle": "删除选举",
+      "deleteElectionModalBody": "您要删除此选举吗？",
+      "infoSubpageTitle": "更多信息",
+      "infoSubpagePostionSectionTitle": "职位",
+      "positionSectionTilte": "职位",
+      "platformSectionTitle": "候选人平台",
+      "resultSectionTitle": "结果",
+      "electionDomainErrorMsg": "您无法参加此次选举，因为您的电子邮件域名不符合条件",
+      "voteBtn": "投票",
+      "applyBtn": "现在申请",
+      "infoBtn": "更多信息",
+      "openPositionBtn": "空缺职位",
+      "platformBtn": "候选人平台",
+      "setTimelineBtn": "设定时间线",
+      "addPositionBtn": "新增位置",
+      "deleteEletionBtn": "删除选举",
+      "managementToolsSectionTitle": "管理工具"
+    },
+    "manageAccountPage": {
+      "title": "帐户",
+      "instruction": "更新或删除您的「德先生」帐户",
+      "changeProfileBtn": "使用 Gravatar 更改个人资料头像",
+      "form": {
+        "title": "更新用户信息",
+        "name": "姓名"
+      }
+    },
+    "positionApplyPage": {
+      "fieldIsRequiredMsg": "此空白处必须填写",
+      "subSuccessModalTitle": "恭喜",
+      "subSuccessModalBody": "您已经成功提交申请",
+      "subLimitationModalTitle": "达到申请限制",
+      "subLimitationModalBody": "您只能在此选举中申请一个职位",
+      "subFailModalTitle": "操作失败",
+      "subFailModalBody": "提交申请失败",
+      "positionSectionTitle": "职位描述",
+      "posAppFormTitle": "申请表",
+      "posAppFormPlatform": "选举平台",
+      "posAppFormSubBtn": "提交",
+      "posAppFormCancelBtn": "取消"
+    },
+    "votePage": {
+      "ballotSubSuccessModalTitle": "已提交",
+      "ballotSubSuccessModalBody": "您的投票正在进行中！请稍后再回来查看结果",
+      "ballotSubFailModalTitle": "提交失败",
+      "ballotSubFailModalBody": "无法提交您的选票，我们将会通知管理员",
+      "ballotElectionTitle": "正式投给",
+      "ballotPositionTitle": "选出这些职位的候选人：",
+      "ballotViewCandidateInfo": "单击候选人以查看他们的竞选平台",
+      "ballotPosDescriptionTitle": "描述",
+      "ballotPosCandidateTitle": "候选人",
+      "ballotVoteSectionTitle": "选择候选人",
+      "ballotVoteOption": "弃权",
+      "ballotSubBtn": "提交",
+      "ballotCancelBtn": "取消"
+    },
+    "addPositionModalComp": {
+      "fieldRequiredMsg": "此空白处必须填写",
+      "title": "新增职位",
+      "posTitle": "职位名称",
+      "posDescription": "描述",
+      "createBtn": "创建",
+      "cancelBtn": "取消"
+    },
+    "candidateInfoComp": {
+      "modalTitle": "候选人信息",
+      "candidateName": "姓名：",
+      "candidatePlatform": "选举平台"
+    },
+    "setTimelineModal": {
+      "title": "设置选举时间线",
+      "headings": {
+        "applicationTimes": "申请开始日期与截止日期",
+        "votingTimes": "投票开始日期与截止日期"
+      },
+      "message": {
+        "changeTimelineWarning": "更改时间线目前无更改限制，但可能会造成严重后果。之后开始一场选举将会停用时间线操纵功能"
+      },
+      "error": {
+        "applicationDeadlineEarly": "申请截止日期必须在开始日期之后",
+        "voteStartEarly": "投票开始日期必须晚于申请截止日期",
+        "voteDeadlineEarly": "投票截止日期必须在投票开始日期之后"
+      },
+      "form": {
+        "timeDivider": "至"
+      },
+      "updateNotification": {
+        "successTitle": "操作成功",
+        "successBody": "选举时间线已成功更新",
+        "errorTitle": "操作错误",
+        "errorBody": "无法更新选举时间表"
+      }
+    },
+    "emailVerification": {
+      "title": {
+        "emailVerified": "邮件通过验证",
+        "emailAlreadyVerified": "电子邮件已通过验证",
+        "emailVerificationError": "电子邮件验证失败"
+      },
+      "subtitle": {
+        "emailVerificationError": "请确保您点击了电子邮件中的链接"
+      }
+    },
+    "electionResults": {
+      "noWinner": "无候选人",
+      "draw": "平局",
+      "votes": "投票数",
+      "noResult": "无结果"
+    },
+    "confirmModal": {
+      "okBtn": "好的",
+      "cancelBtn": "取消"
+    },
+    "electionInfo": {
+      "loading": "载入中...",
+      "id": "选举编号：",
+      "creatationDate": "选举创建日期："
+    },
+    "electionManager": {
+      "manager": "运营者为"
+    },
+    "electionTimeline": {
+      "appBegin": "申请期开始",
+      "appEnd": "申请期结束",
+      "review": "选举经理对申请进行审核",
+      "voteBegin": "投票期开始",
+      "voteEnd": "投票期结束"
+    },
+    "platformList": {
+      "title": "候选人",
+      "emptyTitle": "无候选人",
+      "emptyPosition": "尚未发布职位。请稍后再回来查看更新"
+    },
+    "positionList": {
+      "deleteNotification": {
+        "successTitle": "成功",
+        "successBody": "职位已成功删除",
+        "errorTitle": "出现错误",
+        "errorBody": "删除职位失败"
+      },
+      "emptyPosition": "尚未发布职位。请稍后再回来查看更新",
+      "applyBtn": "现在申请",
+      "deleteBtn": "删除",
+      "confirmModalTitle": "删除职位",
+      "confirmModalBody": "您要删除此职位吗？"
+    },
+    "resetPassword": {
+      "title": "重设密码",
+      "form": {
+        "password1": "密码",
+        "password2": "再次输入密码"
+      }
+    },
+    "semiLegal": {
+      "termsOfService": "使用此系统，即表示您同意不将该站点用于非法活动，不向其他用户发送垃圾邮件，不违反任何用户条例。违反条例者后果自负",
+      "privacyPolicy": "使用此服务，即表示您同意允许在网站上公开发布您的姓名和电子邮件地址"
+    },
+    "v2": {
+      "labels": {
+        "forgotPassword": "忘记了密码？"
+      },
+      "errors": {
+        "error": "错误",
+        "pleaseLogInAgain": "您的用户凭据是无效的，请重新登录。",
+        "electionInvalid": "抱歉，我们无法搜索到此选举。",
+        "cantDelete": "抱歉，我们无法删除它。请稍后再试。"
+      },
+      "infoModal": {
+        "titles": {
+          "tos": "服务条款",
+          "privacy": "隐私政策",
+          "contributors": "贡献者"
+        }
+      },
+      "passwordResetRequest": {
+        "title": "重设密码",
+        "description": "我们会向您发送一封电子邮件，其中包含可用于更改密码的链接。",
+        "form": {
+          "email": "邮箱地址",
+          "submit": "提交"
+        }
+      },
+      "candidateInfoComp": {
+        "btnTip": "点我啦"
+      },
+      "passwordResetChange": {
+        "title": "重设密码",
+        "description": "请输入新密码",
+        "form": {
+          "password1": "新密码",
+          "password2": "请再次输入新密码",
+          "submit": "确定"
+        }
+      },
+      "electionPage": {
+        "deleteNotification": {
+          "successTitle": "成功",
+          "successBody": "已成功删除所选的选举。"
+        },
+        "editWhitelistBtn": "编辑白名单",
+        "editElectionBtn": "修改选举"
+      },
+      "editWhitelistModal": {
+        "title": "编辑白名单",
+        "warning": "请将有资格参与选举者的电子邮件添加至白名单",
+        "instructions": "请输入电子邮箱的纯文本至下面的白名单输入框中。当用户尝试申请职位或投票时将被扫描。不在列表中的用户将被限制参与。",
+        "formLabel": "白名单: ",
+        "submitBtn": "提交",
+        "cancelBtn": "取消",
+        "successNotificationTitle": "成功",
+        "successNotificationBody": "选举白名单已成功更新",
+        "errorNotificationTitle": "错误",
+        "errorNotificationBody": "无法更新选举白名单"
+      },
+      "editElectionModal": {
+        "title": "修改选举明细",
+        "subtitleLabel": "副标题",
+        "instructions": "您可以在此处编辑当前选举的标题和描述",
+        "titleLabel": "标题",
+        "descriptionLabel": "描述",
+        "subBtn": "提交",
+        "cancelBtn": "取消",
+        "successNotificationTitle": "成功",
+        "successNotificationBody": "选举明细已成功更新",
+        "errorNotificationTitle": "错误",
+        "errorNotificationBody": "无法更新选举明细"
+      }
+    }
+  }
+}
